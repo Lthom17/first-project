@@ -1,0 +1,1 @@
+"Hi, I'm Lauren and I love to write code!  Learning how to navigate Git is fun too!"
